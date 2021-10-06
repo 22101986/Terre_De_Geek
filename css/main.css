@@ -105,7 +105,7 @@ header>div>img {
   
 }
 .menu {
-
+ width: 100%;
   height: 50px;
   background-color: cornsilk;
   justify-content:space-around;
@@ -127,11 +127,15 @@ nav>aside>a {
   padding: 0.2em;
   margin: 0.2em;
 }
+
 main {
   margin: 0.3em 0.3em 0.3em 0.3em;
   padding: 0.3em 0.3em 0.3em 0.3em;
   width: 98%;
   background-color: cornsilk;
+}
+main>h2 {
+  color: #F27200
 }
 footer {
   background-color: #391F68;
@@ -149,10 +153,14 @@ aside>a {
   border-bottom: 3px solid #F27200;;
   background-color: cornsilk;
   height: 500px;
-  
   align-items: center;
   justify-content:flex-start;
   flex-direction: column;
+}
+footer {
+color: #F27200;
+margin: 1em;
+
 }
 
 
