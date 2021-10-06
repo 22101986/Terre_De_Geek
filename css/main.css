@@ -87,6 +87,8 @@ textarea {
 
 body {
   background-color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 .flex {
@@ -107,6 +109,11 @@ header>div>img {
   height: 50px;
   background-color: cornsilk;
   justify-content:space-around;
+  align-items: center;
+}
+.choice {
+  font-size: large;
+  font-weight:900;
 }
 body {
   background-color: #391F68;
@@ -123,10 +130,29 @@ nav>aside>a {
 main {
   margin: 0.3em 0.3em 0.3em 0.3em;
   padding: 0.3em 0.3e 0.3em 0.3em;
-  height: 600px;
   width: 98%;
   background-color: cornsilk;
 }
+footer {
+  background-color: #391F68;
+  width: 100;
+  height: 150px;
+}
+.article {
+  
+  color: #391F68;
+  margin-top: 0.2em;
+  padding-top: 0.2em;
+  border-bottom: 3px solid #F27200;;
+  background-color: cornsilk;
+  height: 500px;
+  width: 100%;
+  align-items: center;
+  justify-content:flex-start;
+  flex-direction: column;
+}
+
+
 
 
 
