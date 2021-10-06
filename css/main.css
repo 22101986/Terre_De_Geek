@@ -83,13 +83,74 @@ textarea {
   resize: vertical;
 }
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+/* ####################### mon CSS ######################## */
 
-/* ==========================================================================
-   Helper classes
-   ========================================================================== */
+body {
+  background-color: white;
+}
+
+.flex {
+  display: flex;
+}
+.logo {
+  
+  justify-content: center;
+  background-color: #391F68;
+}
+header>div>img { 
+  height: 180px;
+  width: 180px;
+  
+}
+.menu {
+  width: 100%;
+  height: 50px;
+  background-color: cornsilk;
+  justify-content:space-around;
+}
+body {
+  background-color: #391F68;
+}
+
+nav>div>a {
+  padding: 0.2em;
+  margin: 0.2em;
+}
+nav>aside>a {
+  padding: 0.2em;
+  margin: 0.2em;
+}
+main {
+  margin: 0.3em 0.3em 0.3em 0.3em;
+  padding: 0.3em 0.3e 0.3em 0.3em;
+  height: 600px;
+  width: 98%;
+  background-color: cornsilk;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ####################### mon CSS ######################## */
 
 /*
  * Hide visually and from screen readers
