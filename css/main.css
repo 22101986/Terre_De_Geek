@@ -105,7 +105,7 @@ header>div>img {
   
 }
 .menu {
-  width: 100%;
+
   height: 50px;
   background-color: cornsilk;
   justify-content:space-around;
@@ -129,7 +129,7 @@ nav>aside>a {
 }
 main {
   margin: 0.3em 0.3em 0.3em 0.3em;
-  padding: 0.3em 0.3e 0.3em 0.3em;
+  padding: 0.3em 0.3em 0.3em 0.3em;
   width: 98%;
   background-color: cornsilk;
 }
@@ -137,6 +137,9 @@ footer {
   background-color: #391F68;
   width: 100;
   height: 150px;
+}
+aside>a {
+  color: #F27200
 }
 .article {
   
@@ -146,7 +149,7 @@ footer {
   border-bottom: 3px solid #F27200;;
   background-color: cornsilk;
   height: 500px;
-  width: 100%;
+  
   align-items: center;
   justify-content:flex-start;
   flex-direction: column;
