@@ -139,7 +139,7 @@ nav>aside>a {
 
 main {
   margin: auto;
-  padding: auto;
+  padding: 0;
   width: 98%;
   background-color: cornsilk;
 }
@@ -159,7 +159,6 @@ main>div>h3 {
 }
 footer {
   background-color: #391F68;
-  width: 100;
   height: 150px;
 }
   
