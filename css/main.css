@@ -224,6 +224,17 @@ main>h1 {
   padding: 0.1em;
   margin-top: 0.1em;
 }
+main>div>a>img {
+  width: 140%;
+}
+.article {
+  height: 400px;
+  align-items: flex-start;
+}
+
+
+
+
 
 }
 
