@@ -86,7 +86,7 @@ textarea {
 /* ####################### mon CSS ######################## */
 
 body {
-  background-color: white;
+  background-color: #391F68;
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
@@ -127,14 +127,8 @@ nav>div>a {
 nav>aside>a {
   color: #F27200;
 }
-body {
-  background-color: #391F68;
-}
 
-nav>div>a {
-  padding: 0.2em;
-  margin: 0.2em;
-}
+
 nav>aside>a {
   padding: 0.2em;
   margin: 0.2em;
@@ -146,6 +140,13 @@ main {
   width: 98%;
   background-color: cornsilk;
 }
+.block_text {
+  color: #391F68;
+}
+.price {
+  color: #F27200;
+}
+
 main>h1 {
   color: #F27200;
   font-family: "ephesis";
