@@ -150,10 +150,10 @@ main>h1 {
   color: #F27200;
   font-family: "ephesis";
 }
-main>div>section>h2 {
+main>div>div>h2 {
   color: #391F68;
   }
-main>div>section>p {
+main>div>div>p {
   color: #391F68;
   padding: 1em;
 }  
@@ -213,7 +213,7 @@ margin: 1em;
   padding: 0.1em;
   
 }
-header>div>section>a {
+header>div>div>a {
   color: #F27200;
   padding: 0.1em;
   font-family: "ephesis";
