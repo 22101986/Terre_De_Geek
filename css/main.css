@@ -117,9 +117,9 @@ header>div>img {
 .choice {
   font-size: large;
   font-weight:900;
- 
-}
+ }
 nav>div>a {
+  padding: 0.6em;
   font-size: larger;
   font-family: "ephesis";
   color: #F27200;
