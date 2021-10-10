@@ -212,8 +212,20 @@ footer>aside>button {
   font-family: "ephesis";
   font-size: xx-large;
 }
-
-
+main>form {
+  width: 30%;
+  height: 600px;
+  flex-direction: column;
+}
+.form {
+  padding: 0.5em;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.submit {
+  border:  3px solid #F27200;
+}
 
 @media (min-width: 600px) {
 
